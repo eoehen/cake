@@ -20,7 +20,7 @@
   <!-- Global packages -->
   <ItemGroup>
     <PackageReference Include="NuGet.Frameworks" Version="5.5.1" />
-    <PackageReference Include="NuGet.Versioning" Version="5.5.1" />
+    <PackageReference Include="NuGet.Versioning" Version="5.9.1" />
     <PackageReference Include="NuGet.Protocol" Version="5.5.1" />
     <PackageReference Include="NuGet.Packaging" Version="5.5.1" />
     <PackageReference Include="NuGet.Resolver" Version="5.5.1" />
